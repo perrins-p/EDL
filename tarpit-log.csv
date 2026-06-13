@@ -4443,3 +4443,4 @@ ip,timestamp,jail,bantime,action
 54.180.101.0,2026-06-13T10:31:21Z,nginx-configprobe,,ipv4,unban
 2804:4ec:1105:da79:a811:cd6b:c5a3:9f9b,2026-06-13T10:32:40Z,nginx-wordpress,604800,ipv6,ban
 13.206.145.196,2026-06-13T10:37:55Z,nginx-configprobe,,ipv4,unban
+2a06:98c0:3600::103,2026-06-13T10:45:05Z,nginx-4xx-catchall,,ipv6,unban

@@ -4519,3 +4519,4 @@ ip,timestamp,jail,bantime,action
 103.138.189.25,2026-06-13T20:02:37Z,nginx-configprobe,604800,ipv4,ban
 185.177.72.66,2026-06-13T20:15:00Z,nginx-4xx-catchall,,ipv4,unban
 45.45.237.225,2026-06-13T20:22:41Z,nginx-4xx-catchall,,ipv4,unban
+143.244.57.92,2026-06-13T20:23:10Z,nginx-4xx-catchall,,ipv4,unban

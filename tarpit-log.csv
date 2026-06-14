@@ -4563,3 +4563,4 @@ ip,timestamp,jail,bantime,action
 2a0b:8bc0:2:300f::1,2026-06-14T04:34:51Z,nginx-configprobe,604800,ipv6,ban
 35.220.181.238,2026-06-14T05:14:30Z,nginx-configprobe,604800,ipv4,ban
 35.220.181.238,2026-06-14T05:14:31Z,nginx-4xx-catchall,86400,ipv4,ban
+23.19.44.232,2026-06-14T05:17:24Z,nginx-configprobe,604800,ipv4,ban

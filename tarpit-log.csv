@@ -4700,3 +4700,4 @@ ip,timestamp,jail,bantime,action
 2a02:4780:3f:1903:0:13dd:ec32:1,2026-06-14T21:50:00Z,nginx-configprobe,,ipv6,unban
 146.70.194.230,2026-06-14T21:58:56Z,nginx-4xx-catchall,,ipv4,unban
 20.151.217.54,2026-06-14T22:17:38Z,nginx-4xx-catchall,,ipv4,unban
+34.174.99.120,2026-06-14T22:17:59Z,nginx-4xx-catchall,86400,ipv4,ban

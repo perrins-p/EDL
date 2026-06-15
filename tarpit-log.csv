@@ -4901,3 +4901,4 @@ ip,timestamp,jail,bantime,action
 45.45.237.208,2026-06-15T19:47:00Z,nginx-configprobe,,ipv4,unban
 85.204.70.104,2026-06-15T19:49:55Z,nginx-4xx-catchall,86400,ipv4,ban
 91.92.42.248,2026-06-15T19:52:01Z,nginx-configprobe,,ipv4,unban
+2a01:e0a:987:2e60:95b4:9766:4545:4393,2026-06-15T19:53:01Z,nginx-wordpress,,ipv6,unban

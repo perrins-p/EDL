@@ -4864,3 +4864,4 @@ ip,timestamp,jail,bantime,action
 2607:f5b4:88:109:1c00:3dff:fe00:965,2026-06-15T16:15:28Z,nginx-configprobe,604800,ipv6,ban
 2400:6180:0:d2:0:2:ef8e:b000,2026-06-15T16:19:59Z,nginx-configprobe,604800,ipv6,ban
 2600:3c02::f03c:92ff:fe81:98f5,2026-06-15T16:27:29Z,nginx-configprobe,604800,ipv6,ban
+2001:67c:b58:200::7a:1,2026-06-15T16:36:20Z,nginx-configprobe,604800,ipv6,ban

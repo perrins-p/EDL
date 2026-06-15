@@ -4801,3 +4801,4 @@ ip,timestamp,jail,bantime,action
 154.219.116.25,2026-06-15T08:59:22Z,nginx-configprobe,604800,ipv4,ban
 14.206.12.13,2026-06-15T09:03:07Z,nginx-configprobe,604800,ipv4,ban
 103.174.10.52,2026-06-15T09:04:22Z,nginx-configprobe,604800,ipv4,ban
+192.253.248.17,2026-06-15T09:12:24Z,nginx-configprobe,604800,ipv4,ban

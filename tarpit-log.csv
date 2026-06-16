@@ -4940,3 +4940,4 @@ ip,timestamp,jail,bantime,action
 34.93.174.224,2026-06-16T00:50:50Z,nginx-4xx-catchall,,ipv4,unban
 15.152.217.98,2026-06-16T01:17:52Z,nginx-configprobe,604800,ipv4,ban
 34.130.244.196,2026-06-16T01:20:51Z,nginx-4xx-catchall,,ipv4,unban
+34.100.227.216,2026-06-16T01:44:31Z,nginx-4xx-catchall,,ipv4,unban

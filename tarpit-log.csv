@@ -5023,3 +5023,4 @@ ip,timestamp,jail,bantime,action
 2602:fb54:1400::29,2026-06-16T13:27:21Z,nginx-4xx-catchall,86400,ipv6,ban
 35.187.162.189,2026-06-16T13:35:43Z,nginx-4xx-catchall,,ipv4,unban
 104.43.135.1,2026-06-16T13:40:19Z,nginx-4xx-catchall,,ipv4,unban
+2602:fb54:1400::c1,2026-06-16T13:46:46Z,nginx-4xx-catchall,,ipv6,unban

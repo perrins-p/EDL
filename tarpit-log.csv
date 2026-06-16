@@ -5058,3 +5058,4 @@ ip,timestamp,jail,bantime,action
 64.227.32.66,2026-06-16T18:44:52Z,nginx-configprobe,604800,ipv4,ban
 164.90.208.56,2026-06-16T18:44:53Z,nginx-configprobe,604800,ipv4,ban
 167.71.81.114,2026-06-16T18:45:00Z,nginx-4xx-catchall,86400,ipv4,ban
+138.68.86.32,2026-06-16T18:45:30Z,nginx-configprobe,604800,ipv4,ban

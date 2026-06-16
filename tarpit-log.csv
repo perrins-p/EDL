@@ -4951,3 +4951,4 @@ ip,timestamp,jail,bantime,action
 2605:fe80:2b:111:1c00:12ff:fe00:9d6,2026-06-16T03:50:54Z,nginx-configprobe,604800,ipv6,ban
 93.123.109.178,2026-06-16T03:51:58Z,nginx-configprobe,,ipv4,unban
 45.148.10.218,2026-06-16T03:55:24Z,nginx-configprobe,,ipv4,unban
+167.99.181.249,2026-06-16T04:04:35Z,nginx-configprobe,604800,ipv4,ban

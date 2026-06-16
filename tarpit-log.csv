@@ -5011,3 +5011,4 @@ ip,timestamp,jail,bantime,action
 130.131.201.26,2026-06-16T12:32:47Z,nginx-4xx-catchall,,ipv4,unban
 34.58.111.17,2026-06-16T12:38:26Z,nginx-configprobe,604800,ipv4,ban
 45.92.1.83,2026-06-16T12:41:20Z,nginx-4xx-catchall,86400,ipv4,ban
+2602:fa59:10:2ef::1,2026-06-16T12:46:47Z,nginx-configprobe,,ipv6,unban

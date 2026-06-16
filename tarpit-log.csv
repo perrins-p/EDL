@@ -5099,3 +5099,4 @@ ip,timestamp,jail,bantime,action
 18.201.159.146,2026-06-16T21:48:23Z,nginx-configprobe,604800,ipv4,ban
 141.11.62.125,2026-06-16T21:52:27Z,nginx-configprobe,604800,ipv4,ban
 40.85.218.222,2026-06-16T22:17:11Z,nginx-4xx-catchall,86400,ipv4,ban
+51.91.52.217,2026-06-16T22:36:10Z,nginx-4xx-catchall,86400,ipv4,ban

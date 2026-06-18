@@ -5335,3 +5335,4 @@ ip,timestamp,jail,bantime,action
 85.204.70.102,2026-06-18T12:44:45Z,nginx-4xx-catchall,86400,ipv4,ban
 162.141.167.49,2026-06-18T12:47:02Z,nginx-configprobe,,ipv4,unban
 5.231.70.98,2026-06-18T12:49:07Z,nginx-configprobe,604800,ipv4,ban
+34.175.9.173,2026-06-18T12:56:53Z,nginx-configprobe,,ipv4,unban

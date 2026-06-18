@@ -5329,3 +5329,4 @@ ip,timestamp,jail,bantime,action
 91.92.241.197,2026-06-18T11:45:00Z,nginx-4xx-catchall,,ipv4,unban
 104.155.18.216,2026-06-18T11:45:57Z,nginx-4xx-catchall,86400,ipv4,ban
 20.104.75.74,2026-06-18T12:19:13Z,nginx-4xx-catchall,,ipv4,unban
+34.64.221.180,2026-06-18T12:24:07Z,nginx-configprobe,,ipv4,unban

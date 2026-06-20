@@ -5629,3 +5629,4 @@ ip,timestamp,jail,bantime,action
 2001:448a:a071:3f9:145e:f4bd:ee3c:1008,2026-06-20T19:56:59Z,nginx-configprobe,,ipv6,unban
 93.123.109.105,2026-06-20T20:25:13Z,nginx-configprobe,,ipv4,unban
 45.156.87.177,2026-06-20T20:42:20Z,nginx-4xx-catchall,,ipv4,unban
+143.110.217.244,2026-06-20T20:44:04Z,nginx-4xx-catchall,,ipv4,unban

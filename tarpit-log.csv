@@ -5580,3 +5580,4 @@ ip,timestamp,jail,bantime,action
 2602:fa59:10:405::1,2026-06-20T10:28:53Z,nginx-configprobe,604800,ipv6,ban
 34.181.224.244,2026-06-20T10:29:02Z,nginx-4xx-catchall,,ipv4,unban
 2804:4ec:1105:da79:a811:cd6b:c5a3:9f9b,2026-06-20T10:32:39Z,nginx-wordpress,,ipv6,unban
+2602:fa59:10:405::1,2026-06-20T10:35:53Z,nginx-traversal,2592000,ipv6,ban

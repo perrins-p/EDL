@@ -5551,3 +5551,4 @@ ip,timestamp,jail,bantime,action
 2607:f5b4:88:109:1c00:ceff:fe00:8e3,2026-06-20T05:28:51Z,nginx-configprobe,,ipv6,unban
 13.71.232.179,2026-06-20T05:44:22Z,nginx-traversal,,ipv4,unban
 20.198.4.39,2026-06-20T05:49:45Z,nginx-4xx-catchall,86400,ipv4,ban
+52.242.128.238,2026-06-20T05:55:01Z,nginx-4xx-catchall,,ipv4,unban

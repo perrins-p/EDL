@@ -5615,3 +5615,4 @@ ip,timestamp,jail,bantime,action
 34.140.202.245,2026-06-20T16:54:38Z,nginx-configprobe,,ipv4,unban
 3.87.12.171,2026-06-20T17:00:02Z,nginx-configprobe,,ipv4,unban
 2602:fb54:9a0::,2026-06-20T17:21:16Z,nginx-configprobe,,ipv6,unban
+3.26.54.229,2026-06-20T17:38:48Z,nginx-configprobe,,ipv4,unban

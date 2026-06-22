@@ -5809,3 +5809,4 @@ ip,timestamp,jail,bantime,action
 176.65.139.232,2026-06-22T07:11:32Z,nginx-configprobe,604800,ipv4,ban
 2a06:a880:5:5c0e::1,2026-06-22T07:39:53Z,nginx-configprobe,604800,ipv6,ban
 24.77.77.1,2026-06-22T07:40:53Z,nginx-wordpress,,ipv4,unban
+45.94.31.103,2026-06-22T07:45:45Z,nginx-4xx-catchall,86400,ipv4,ban

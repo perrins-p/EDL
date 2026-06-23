@@ -6090,3 +6090,4 @@ ip,timestamp,jail,bantime,action
 2a02:2908:4400:183a:39df:14cd:850b:f27c,2026-06-23T19:00:59Z,nginx-wordpress,604800,ipv6,ban
 45.92.1.83,2026-06-23T19:01:02Z,nginx-4xx-catchall,,ipv4,unban
 85.204.70.104,2026-06-23T19:01:44Z,nginx-4xx-catchall,,ipv4,unban
+3.111.48.101,2026-06-23T19:08:03Z,nginx-configprobe,,ipv4,unban

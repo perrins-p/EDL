@@ -6059,3 +6059,4 @@ ip,timestamp,jail,bantime,action
 20.151.222.27,2026-06-23T15:55:13Z,nginx-4xx-catchall,86400,ipv4,ban
 34.170.189.242,2026-06-23T15:58:51Z,nginx-configprobe,,ipv4,unban
 34.44.24.140,2026-06-23T16:01:41Z,nginx-4xx-catchall,86400,ipv4,ban
+2a09:bac5:636a:1173::1bd:123,2026-06-23T16:05:32Z,nginx-configprobe,604800,ipv6,ban

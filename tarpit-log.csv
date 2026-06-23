@@ -5948,3 +5948,4 @@ ip,timestamp,jail,bantime,action
 2606:65c0:40:35e:54a7:ed88:7f40:484c,2026-06-23T00:47:44Z,nginx-configprobe,604800,ipv6,ban
 100.54.38.86,2026-06-23T00:51:20Z,nginx-configprobe,604800,ipv4,ban
 3.92.209.22,2026-06-23T01:03:31Z,nginx-configprobe,604800,ipv4,ban
+5.255.98.183,2026-06-23T01:15:16Z,nginx-4xx-catchall,,ipv4,unban

@@ -6012,3 +6012,4 @@ ip,timestamp,jail,bantime,action
 20.46.250.163,2026-06-23T09:05:26Z,nginx-4xx-catchall,86400,ipv4,ban
 35.178.189.206,2026-06-23T09:06:51Z,nginx-configprobe,604800,ipv4,ban
 154.58.229.20,2026-06-23T09:10:20Z,nginx-4xx-catchall,86400,ipv4,ban
+52.3.233.24,2026-06-23T09:11:55Z,nginx-configprobe,604800,ipv4,ban

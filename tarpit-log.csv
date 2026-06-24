@@ -6310,3 +6310,4 @@ ip,timestamp,jail,bantime,action
 3.73.91.83,2026-06-24T22:03:01Z,nginx-configprobe,604800,ipv4,ban
 20.205.32.219,2026-06-24T22:15:19Z,nginx-4xx-catchall,,ipv4,unban
 34.245.113.115,2026-06-24T22:32:46Z,nginx-configprobe,604800,ipv4,ban
+2a09:bac1:76a0:780::3c0:17,2026-06-24T22:38:28Z,nginx-4xx-catchall,,ipv6,unban

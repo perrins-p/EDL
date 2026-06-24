@@ -6278,3 +6278,4 @@ ip,timestamp,jail,bantime,action
 20.210.130.226,2026-06-24T16:53:52Z,nginx-4xx-catchall,86400,ipv4,ban
 45.154.98.150,2026-06-24T17:09:19Z,nginx-4xx-catchall,86400,ipv4,ban
 176.65.139.235,2026-06-24T17:19:57Z,nginx-configprobe,604800,ipv4,ban
+2804:1b3:8c51:83d9:1982:6853:3413:a781,2026-06-24T17:27:51Z,nginx-wordpress,,ipv6,unban

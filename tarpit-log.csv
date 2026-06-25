@@ -6370,3 +6370,4 @@ ip,timestamp,jail,bantime,action
 157.245.204.205,2026-06-25T06:14:36Z,nginx-configprobe,,ipv4,unban
 206.81.12.187,2026-06-25T06:15:06Z,nginx-configprobe,,ipv4,unban
 167.172.158.128,2026-06-25T06:15:07Z,nginx-configprobe,,ipv4,unban
+146.190.63.248,2026-06-25T06:15:08Z,nginx-configprobe,,ipv4,unban

@@ -6439,3 +6439,4 @@ ip,timestamp,jail,bantime,action
 165.22.235.3,2026-06-25T14:40:18Z,nginx-configprobe,604800,ipv4,ban
 178.128.207.138,2026-06-25T14:40:30Z,nginx-4xx-catchall,86400,ipv4,ban
 159.223.132.86,2026-06-25T14:41:04Z,nginx-configprobe,604800,ipv4,ban
+206.81.12.187,2026-06-25T14:41:05Z,nginx-configprobe,604800,ipv4,ban

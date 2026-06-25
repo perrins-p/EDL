@@ -6340,3 +6340,4 @@ ip,timestamp,jail,bantime,action
 104.28.214.112,2026-06-25T03:16:39Z,nginx-4xx-catchall,,ipv4,unban
 1.54.56.14,2026-06-25T03:23:55Z,nginx-wordpress,604800,ipv4,ban
 45.153.34.43,2026-06-25T03:24:33Z,nginx-configprobe,,ipv4,unban
+20.63.8.12,2026-06-25T03:32:36Z,nginx-4xx-catchall,86400,ipv4,ban

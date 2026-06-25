@@ -6499,3 +6499,4 @@ ip,timestamp,jail,bantime,action
 2a01:4f8:c015:5dc3::1,2026-06-25T21:06:30Z,nginx-4xx-catchall,86400,ipv6,ban
 82.102.18.124,2026-06-25T21:23:19Z,nginx-4xx-catchall,,ipv4,unban
 84.17.43.213,2026-06-25T21:29:28Z,nginx-4xx-catchall,,ipv4,unban
+34.212.32.252,2026-06-25T21:39:19Z,nginx-configprobe,,ipv4,unban

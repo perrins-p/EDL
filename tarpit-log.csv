@@ -6505,3 +6505,4 @@ ip,timestamp,jail,bantime,action
 34.176.177.165,2026-06-25T22:47:39Z,nginx-4xx-catchall,86400,ipv4,ban
 34.130.231.47,2026-06-25T23:02:29Z,nginx-4xx-catchall,86400,ipv4,ban
 34.130.231.47,2026-06-25T23:02:30Z,nginx-configprobe,604800,ipv4,ban
+34.146.228.176,2026-06-25T23:03:12Z,nginx-4xx-catchall,86400,ipv4,ban

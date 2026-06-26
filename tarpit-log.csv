@@ -6541,3 +6541,4 @@ ip,timestamp,jail,bantime,action
 107.170.47.137,2026-06-26T04:31:25Z,nginx-configprobe,604800,ipv4,ban
 5.185.242.219,2026-06-26T04:38:23Z,nginx-configprobe,604800,ipv4,ban
 34.178.163.179,2026-06-26T04:42:03Z,nginx-4xx-catchall,86400,ipv4,ban
+143.244.57.86,2026-06-26T05:09:05Z,nginx-4xx-catchall,86400,ipv4,ban

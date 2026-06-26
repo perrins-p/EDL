@@ -6539,3 +6539,4 @@ ip,timestamp,jail,bantime,action
 143.198.89.109,2026-06-26T03:55:43Z,nginx-wordpress,604800,ipv4,ban
 157.15.40.76,2026-06-26T04:02:55Z,nginx-wordpress,,ipv4,unban
 107.170.47.137,2026-06-26T04:31:25Z,nginx-configprobe,604800,ipv4,ban
+5.185.242.219,2026-06-26T04:38:23Z,nginx-configprobe,604800,ipv4,ban

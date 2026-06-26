@@ -6639,3 +6639,4 @@ ip,timestamp,jail,bantime,action
 169.239.183.136,2026-06-26T20:18:35Z,nginx-configprobe,,ipv4,unban
 20.226.27.158,2026-06-26T20:31:26Z,nginx-4xx-catchall,,ipv4,unban
 45.156.87.177,2026-06-26T20:42:21Z,nginx-wordpress,,ipv4,unban
+165.22.34.189,2026-06-26T20:45:51Z,nginx-configprobe,,ipv4,unban

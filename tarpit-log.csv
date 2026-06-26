@@ -6635,3 +6635,4 @@ ip,timestamp,jail,bantime,action
 2602:fb54:1a00::3e,2026-06-26T19:31:19Z,nginx-configprobe,,ipv6,unban
 5.231.70.98,2026-06-26T19:49:19Z,nginx-configprobe,,ipv4,unban
 45.45.237.206,2026-06-26T20:04:50Z,nginx-configprobe,,ipv4,unban
+20.226.46.77,2026-06-26T20:07:35Z,nginx-4xx-catchall,,ipv4,unban

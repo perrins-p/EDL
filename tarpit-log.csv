@@ -6712,3 +6712,4 @@ ip,timestamp,jail,bantime,action
 4.232.94.242,2026-06-27T10:53:46Z,nginx-4xx-catchall,,ipv4,unban
 34.83.7.120,2026-06-27T11:19:10Z,nginx-4xx-catchall,,ipv4,unban
 134.122.28.88,2026-06-27T11:20:40Z,nginx-configprobe,,ipv4,unban
+68.183.9.16,2026-06-27T11:20:41Z,nginx-configprobe,,ipv4,unban

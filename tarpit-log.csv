@@ -6708,3 +6708,4 @@ ip,timestamp,jail,bantime,action
 2602:fa59:10:405::1,2026-06-27T10:36:34Z,nginx-configprobe,,ipv6,unban
 34.127.43.229,2026-06-27T10:42:32Z,nginx-4xx-catchall,,ipv4,unban
 104.168.115.241,2026-06-27T10:46:07Z,nginx-configprobe,604800,ipv4,ban
+104.168.115.241,2026-06-27T10:46:08Z,nginx-4xx-catchall,86400,ipv4,ban

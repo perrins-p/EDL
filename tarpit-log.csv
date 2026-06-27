@@ -6685,3 +6685,4 @@ ip,timestamp,jail,bantime,action
 2a02:6ea0:4000::24,2026-06-27T04:31:56Z,nginx-configprobe,,ipv6,unban
 34.178.163.179,2026-06-27T04:42:03Z,nginx-4xx-catchall,,ipv4,unban
 104.234.140.41,2026-06-27T04:45:20Z,nginx-wordpress,,ipv4,unban
+143.244.57.86,2026-06-27T05:09:05Z,nginx-4xx-catchall,,ipv4,unban

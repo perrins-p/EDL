@@ -6705,3 +6705,4 @@ ip,timestamp,jail,bantime,action
 84.17.43.213,2026-06-27T09:52:09Z,nginx-4xx-catchall,,ipv4,unban
 45.92.229.187,2026-06-27T10:11:41Z,nginx-wordpress,,ipv4,unban
 137.184.173.5,2026-06-27T10:18:59Z,nginx-4xx-catchall,86400,ipv4,ban
+2602:fa59:10:405::1,2026-06-27T10:36:34Z,nginx-configprobe,,ipv6,unban

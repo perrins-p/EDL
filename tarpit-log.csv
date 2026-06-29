@@ -7083,3 +7083,4 @@ ip,timestamp,jail,bantime,action
 20.206.64.115,2026-06-29T22:07:21Z,nginx-configprobe,,ipv4,unban
 2.27.50.135,2026-06-29T22:11:09Z,nginx-configprobe,,ipv4,unban
 13.92.26.47,2026-06-29T22:17:43Z,nginx-4xx-catchall,,ipv4,unban
+20.63.216.87,2026-06-29T22:20:51Z,nginx-4xx-catchall,,ipv4,unban

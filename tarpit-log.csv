@@ -7065,3 +7065,4 @@ ip,timestamp,jail,bantime,action
 195.178.110.103,2026-06-29T20:08:06Z,nginx-configprobe,604800,ipv4,ban
 195.178.110.103,2026-06-29T20:16:40Z,nginx-traversal,2592000,ipv4,ban
 20.197.238.124,2026-06-29T20:29:36Z,nginx-configprobe,604800,ipv4,ban
+45.132.227.182,2026-06-29T20:32:20Z,nginx-wordpress,604800,ipv4,ban

@@ -7029,3 +7029,4 @@ ip,timestamp,jail,bantime,action
 68.183.180.73,2026-06-29T15:35:47Z,nginx-configprobe,604800,ipv4,ban
 165.227.173.41,2026-06-29T15:35:48Z,nginx-configprobe,604800,ipv4,ban
 207.175.11.211,2026-06-29T15:48:18Z,nginx-4xx-catchall,86400,ipv4,ban
+195.178.110.105,2026-06-29T16:00:22Z,nginx-configprobe,604800,ipv4,ban

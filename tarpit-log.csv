@@ -7239,3 +7239,4 @@ ip,timestamp,jail,bantime,action
 2a03:cfc0:8040:e::a,2026-06-30T19:33:48Z,nginx-configprobe,604800,ipv6,ban
 146.70.194.230,2026-06-30T19:49:34Z,nginx-4xx-catchall,,ipv4,unban
 20.197.238.124,2026-06-30T20:02:33Z,nginx-4xx-catchall,,ipv4,unban
+85.204.70.116,2026-06-30T20:03:22Z,nginx-4xx-catchall,,ipv4,unban

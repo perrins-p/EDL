@@ -7535,3 +7535,4 @@ ip,timestamp,jail,bantime,action
 2a06:98c0:3600::103,2026-07-02T22:03:34Z,nginx-4xx-catchall,86400,ipv6,ban
 2.27.50.135,2026-07-02T22:33:30Z,nginx-configprobe,604800,ipv4,ban
 34.130.231.47,2026-07-02T23:02:29Z,nginx-configprobe,,ipv4,unban
+185.177.72.52,2026-07-02T23:11:44Z,nginx-configprobe,,ipv4,unban

@@ -7519,3 +7519,4 @@ ip,timestamp,jail,bantime,action
 2001:448a:a071:1e16:9192:874a:cf4c:32f3,2026-07-02T20:29:21Z,nginx-configprobe,604800,ipv6,ban
 146.70.40.70,2026-07-02T20:44:45Z,nginx-4xx-catchall,,ipv4,unban
 163.7.11.69,2026-07-02T20:47:59Z,nginx-configprobe,,ipv4,unban
+20.226.36.195,2026-07-02T20:51:14Z,nginx-4xx-catchall,86400,ipv4,ban

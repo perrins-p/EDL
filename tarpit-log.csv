@@ -7907,3 +7907,4 @@ ip,timestamp,jail,bantime,action
 20.89.133.189,2026-07-05T16:41:20Z,nginx-4xx-catchall,,ipv4,unban
 2a02:4780:75:cabe::1,2026-07-05T16:58:06Z,nginx-configprobe,604800,ipv6,ban
 62.60.130.142,2026-07-05T17:08:30Z,nginx-wordpress,,ipv4,unban
+45.154.98.101,2026-07-05T17:26:24Z,nginx-4xx-catchall,,ipv4,unban

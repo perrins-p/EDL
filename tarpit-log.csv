@@ -7840,3 +7840,4 @@ ip,timestamp,jail,bantime,action
 146.70.194.236,2026-07-05T05:29:40Z,nginx-4xx-catchall,,ipv4,unban
 165.227.84.14,2026-07-05T05:38:06Z,nginx-configprobe,,ipv4,unban
 64.225.75.246,2026-07-05T05:38:07Z,nginx-configprobe,,ipv4,unban
+167.172.158.128,2026-07-05T05:38:16Z,nginx-configprobe,,ipv4,unban

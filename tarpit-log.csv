@@ -7991,3 +7991,4 @@ ip,timestamp,jail,bantime,action
 38.43.93.159,2026-07-06T12:15:07Z,nginx-configprobe,,ipv4,unban
 2606:65c0:40:35e:54a7:ed88:7f40:484c,2026-07-06T12:15:18Z,nginx-configprobe,,ipv6,unban
 20.89.250.108,2026-07-06T12:16:52Z,nginx-4xx-catchall,,ipv4,unban
+34.22.222.128,2026-07-06T12:28:47Z,nginx-4xx-catchall,,ipv4,unban

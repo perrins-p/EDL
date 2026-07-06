@@ -8073,3 +8073,4 @@ ip,timestamp,jail,bantime,action
 45.132.227.182,2026-07-06T20:32:19Z,nginx-wordpress,,ipv4,unban
 20.226.36.195,2026-07-06T20:33:40Z,nginx-4xx-catchall,,ipv4,unban
 195.178.110.103,2026-07-06T20:35:04Z,nginx-configprobe,,ipv4,unban
+143.244.57.121,2026-07-06T20:40:38Z,nginx-4xx-catchall,,ipv4,unban

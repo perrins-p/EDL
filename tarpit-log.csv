@@ -8020,3 +8020,4 @@ ip,timestamp,jail,bantime,action
 20.46.121.148,2026-07-06T14:40:57Z,nginx-wordpress,604800,ipv4,ban
 85.204.70.104,2026-07-06T14:45:38Z,nginx-4xx-catchall,,ipv4,unban
 207.175.18.220,2026-07-06T14:52:53Z,nginx-4xx-catchall,86400,ipv4,ban
+46.23.108.234,2026-07-06T14:53:50Z,nginx-configprobe,604800,ipv4,ban

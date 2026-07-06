@@ -8008,3 +8008,4 @@ ip,timestamp,jail,bantime,action
 2.57.122.13,2026-07-06T14:11:30Z,nginx-4xx-catchall,,ipv4,unban
 20.249.10.17,2026-07-06T14:21:57Z,nginx-4xx-catchall,86400,ipv4,ban
 48.218.188.18,2026-07-06T14:24:22Z,nginx-4xx-catchall,86400,ipv4,ban
+34.6.164.97,2026-07-06T14:27:40Z,nginx-4xx-catchall,86400,ipv4,ban

@@ -8030,3 +8030,4 @@ ip,timestamp,jail,bantime,action
 146.190.103.103,2026-07-06T15:38:19Z,nginx-configprobe,,ipv4,unban
 68.183.180.73,2026-07-06T15:38:44Z,nginx-configprobe,,ipv4,unban
 165.227.173.41,2026-07-06T15:38:45Z,nginx-configprobe,,ipv4,unban
+176.65.139.233,2026-07-06T15:38:55Z,nginx-configprobe,,ipv4,unban

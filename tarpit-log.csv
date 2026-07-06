@@ -8038,3 +8038,4 @@ ip,timestamp,jail,bantime,action
 20.48.154.175,2026-07-06T16:17:30Z,nginx-4xx-catchall,,ipv4,unban
 84.17.60.251,2026-07-06T16:21:53Z,nginx-4xx-catchall,,ipv4,unban
 4.188.224.124,2026-07-06T16:25:37Z,nginx-4xx-catchall,86400,ipv4,ban
+195.178.110.105,2026-07-06T16:26:06Z,nginx-configprobe,,ipv4,unban

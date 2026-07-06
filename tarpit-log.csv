@@ -8075,3 +8075,4 @@ ip,timestamp,jail,bantime,action
 195.178.110.103,2026-07-06T20:35:04Z,nginx-configprobe,,ipv4,unban
 143.244.57.121,2026-07-06T20:40:38Z,nginx-4xx-catchall,,ipv4,unban
 20.206.105.139,2026-07-06T20:41:57Z,nginx-4xx-catchall,86400,ipv4,ban
+157.245.204.205,2026-07-06T20:45:08Z,nginx-configprobe,604800,ipv4,ban

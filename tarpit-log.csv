@@ -8079,3 +8079,4 @@ ip,timestamp,jail,bantime,action
 185.177.72.23,2026-07-06T20:52:18Z,nginx-4xx-catchall,86400,ipv4,ban
 20.212.228.38,2026-07-06T21:01:44Z,nginx-4xx-catchall,86400,ipv4,ban
 20.212.228.38,2026-07-06T21:01:45Z,nginx-wordpress,604800,ipv4,ban
+20.206.105.139,2026-07-06T21:12:57Z,nginx-configprobe,604800,ipv4,ban

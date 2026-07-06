@@ -8029,3 +8029,4 @@ ip,timestamp,jail,bantime,action
 20.206.112.140,2026-07-06T15:33:33Z,nginx-4xx-catchall,86400,ipv4,ban
 146.190.103.103,2026-07-06T15:38:19Z,nginx-configprobe,,ipv4,unban
 68.183.180.73,2026-07-06T15:38:44Z,nginx-configprobe,,ipv4,unban
+165.227.173.41,2026-07-06T15:38:45Z,nginx-configprobe,,ipv4,unban

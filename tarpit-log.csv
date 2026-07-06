@@ -8011,3 +8011,4 @@ ip,timestamp,jail,bantime,action
 34.6.164.97,2026-07-06T14:27:40Z,nginx-4xx-catchall,86400,ipv4,ban
 35.243.193.73,2026-07-06T14:29:43Z,nginx-4xx-catchall,86400,ipv4,ban
 45.148.10.67,2026-07-06T14:29:59Z,nginx-4xx-catchall,,ipv4,unban
+104.208.96.194,2026-07-06T14:34:34Z,nginx-4xx-catchall,86400,ipv4,ban

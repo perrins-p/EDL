@@ -8024,3 +8024,4 @@ ip,timestamp,jail,bantime,action
 2a0f:ca81:b00b::b5c9:1a87,2026-07-06T14:53:51Z,nginx-configprobe,604800,ipv6,ban
 20.195.177.9,2026-07-06T15:02:25Z,nginx-4xx-catchall,,ipv4,unban
 20.247.24.165,2026-07-06T15:06:57Z,nginx-4xx-catchall,86400,ipv4,ban
+191.233.239.19,2026-07-06T15:31:12Z,nginx-wordpress,604800,ipv4,ban

@@ -8125,3 +8125,4 @@ ip,timestamp,jail,bantime,action
 103.176.2.32,2026-07-07T04:49:10Z,nginx-configprobe,,ipv4,unban
 180.195.68.13,2026-07-07T04:50:41Z,nginx-configprobe,,ipv4,unban
 103.200.18.229,2026-07-07T04:52:05Z,nginx-configprobe,,ipv4,unban
+120.140.40.123,2026-07-07T05:00:54Z,nginx-configprobe,,ipv4,unban

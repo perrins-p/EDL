@@ -8220,3 +8220,4 @@ ip,timestamp,jail,bantime,action
 20.89.250.108,2026-07-07T17:55:36Z,nginx-4xx-catchall,,ipv4,unban
 20.214.166.173,2026-07-07T18:10:47Z,nginx-wordpress,604800,ipv4,ban
 173.212.223.120,2026-07-07T18:16:15Z,nginx-4xx-catchall,,ipv4,unban
+43.229.61.53,2026-07-07T18:35:25Z,nginx-configprobe,,ipv4,unban

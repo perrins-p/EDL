@@ -8198,3 +8198,4 @@ ip,timestamp,jail,bantime,action
 20.247.24.165,2026-07-07T15:06:57Z,nginx-4xx-catchall,,ipv4,unban
 85.204.70.112,2026-07-07T15:12:36Z,nginx-4xx-catchall,86400,ipv4,ban
 34.26.151.202,2026-07-07T15:20:42Z,nginx-4xx-catchall,86400,ipv4,ban
+20.46.177.15,2026-07-07T15:30:11Z,nginx-wordpress,604800,ipv4,ban

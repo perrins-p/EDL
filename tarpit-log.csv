@@ -8240,3 +8240,4 @@ ip,timestamp,jail,bantime,action
 93.123.109.10,2026-07-07T20:33:38Z,nginx-configprobe,,ipv4,unban
 20.206.105.139,2026-07-07T20:41:57Z,nginx-4xx-catchall,,ipv4,unban
 185.177.72.23,2026-07-07T20:52:18Z,nginx-4xx-catchall,,ipv4,unban
+20.212.228.38,2026-07-07T21:01:44Z,nginx-4xx-catchall,,ipv4,unban

@@ -8329,3 +8329,4 @@ ip,timestamp,jail,bantime,action
 34.138.230.118,2026-07-08T13:10:13Z,nginx-4xx-catchall,,ipv4,unban
 20.24.13.49,2026-07-08T13:11:16Z,nginx-4xx-catchall,,ipv4,unban
 141.11.62.236,2026-07-08T13:16:49Z,nginx-configprobe,,ipv4,unban
+2a02:4780:75:4739::1,2026-07-08T13:17:39Z,nginx-configprobe,,ipv6,unban

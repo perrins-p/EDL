@@ -8330,3 +8330,4 @@ ip,timestamp,jail,bantime,action
 20.24.13.49,2026-07-08T13:11:16Z,nginx-4xx-catchall,,ipv4,unban
 141.11.62.236,2026-07-08T13:16:49Z,nginx-configprobe,,ipv4,unban
 2a02:4780:75:4739::1,2026-07-08T13:17:39Z,nginx-configprobe,,ipv6,unban
+52.225.92.142,2026-07-08T13:17:59Z,nginx-configprobe,,ipv4,unban

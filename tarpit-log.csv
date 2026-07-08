@@ -8328,3 +8328,4 @@ ip,timestamp,jail,bantime,action
 172.98.32.202,2026-07-08T12:43:01Z,nginx-wordpress,,ipv4,unban
 34.138.230.118,2026-07-08T13:10:13Z,nginx-4xx-catchall,,ipv4,unban
 20.24.13.49,2026-07-08T13:11:16Z,nginx-4xx-catchall,,ipv4,unban
+141.11.62.236,2026-07-08T13:16:49Z,nginx-configprobe,,ipv4,unban

@@ -8338,3 +8338,4 @@ ip,timestamp,jail,bantime,action
 35.154.38.160,2026-07-08T13:42:28Z,nginx-configprobe,604800,ipv4,ban
 137.184.60.99,2026-07-08T13:48:35Z,nginx-configprobe,,ipv4,unban
 195.178.110.199,2026-07-08T13:49:41Z,nginx-4xx-catchall,86400,ipv4,ban
+95.70.202.191,2026-07-08T13:58:18Z,nginx-wordpress,,ipv4,unban

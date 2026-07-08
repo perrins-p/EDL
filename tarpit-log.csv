@@ -8310,3 +8310,4 @@ ip,timestamp,jail,bantime,action
 94.154.43.183,2026-07-08T10:34:39Z,nginx-configprobe,604800,ipv4,ban
 185.177.72.66,2026-07-08T10:35:46Z,nginx-configprobe,604800,ipv4,ban
 2a00:bc00:8801:38f9:eccd:ab98:17d2:c1f1,2026-07-08T10:40:43Z,nginx-wordpress,604800,ipv6,ban
+140.245.37.253,2026-07-08T10:58:55Z,nginx-configprobe,,ipv4,unban

@@ -8463,3 +8463,4 @@ ip,timestamp,jail,bantime,action
 2001:448a:a071:161e:4922:52f8:1f18:f42d,2026-07-09T12:02:28Z,nginx-configprobe,604800,ipv6,ban
 35.224.61.205,2026-07-09T12:05:07Z,nginx-4xx-catchall,86400,ipv4,ban
 20.197.178.213,2026-07-09T12:06:20Z,nginx-wordpress,,ipv4,unban
+185.177.72.69,2026-07-09T12:16:57Z,nginx-4xx-catchall,,ipv4,unban

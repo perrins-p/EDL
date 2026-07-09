@@ -8404,3 +8404,4 @@ ip,timestamp,jail,bantime,action
 20.195.177.9,2026-07-09T02:47:39Z,nginx-4xx-catchall,,ipv4,unban
 20.249.10.17,2026-07-09T03:06:55Z,nginx-4xx-catchall,86400,ipv4,ban
 185.177.72.53,2026-07-09T03:42:23Z,nginx-4xx-catchall,86400,ipv4,ban
+2a04:4e40:e000:0:514:e490:8f89:4510,2026-07-09T03:45:35Z,nginx-configprobe,604800,ipv6,ban

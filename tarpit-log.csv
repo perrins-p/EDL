@@ -8499,3 +8499,4 @@ ip,timestamp,jail,bantime,action
 38.175.193.133,2026-07-09T18:38:28Z,nginx-configprobe,,ipv4,unban
 65.109.211.195,2026-07-09T18:39:09Z,nginx-configprobe,,ipv4,unban
 20.44.183.200,2026-07-09T19:29:42Z,nginx-4xx-catchall,,ipv4,unban
+20.189.200.150,2026-07-09T19:59:26Z,nginx-4xx-catchall,,ipv4,unban

@@ -8469,3 +8469,4 @@ ip,timestamp,jail,bantime,action
 20.220.205.140,2026-07-09T13:21:57Z,nginx-4xx-catchall,86400,ipv4,ban
 85.204.70.96,2026-07-09T13:25:00Z,nginx-4xx-catchall,86400,ipv4,ban
 82.102.18.118,2026-07-09T13:37:34Z,nginx-4xx-catchall,86400,ipv4,ban
+134.209.98.3,2026-07-09T13:41:44Z,nginx-4xx-catchall,,ipv4,unban

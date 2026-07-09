@@ -8498,3 +8498,4 @@ ip,timestamp,jail,bantime,action
 2a02:4780:2d:720b::1,2026-07-09T18:16:20Z,nginx-configprobe,604800,ipv6,ban
 38.175.193.133,2026-07-09T18:38:28Z,nginx-configprobe,,ipv4,unban
 65.109.211.195,2026-07-09T18:39:09Z,nginx-configprobe,,ipv4,unban
+20.44.183.200,2026-07-09T19:29:42Z,nginx-4xx-catchall,,ipv4,unban

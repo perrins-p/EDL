@@ -8538,3 +8538,4 @@ ip,timestamp,jail,bantime,action
 130.12.180.48,2026-07-10T00:26:52Z,nginx-configprobe,604800,ipv4,ban
 2a04:4e40:e000:0:6f4:e75a:1281:a507,2026-07-10T00:56:45Z,nginx-configprobe,604800,ipv6,ban
 194.32.120.44,2026-07-10T01:23:16Z,nginx-wordpress,604800,ipv4,ban
+212.30.33.196,2026-07-10T01:45:25Z,nginx-wordpress,604800,ipv4,ban

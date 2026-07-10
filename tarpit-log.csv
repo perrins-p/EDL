@@ -8610,3 +8610,4 @@ ip,timestamp,jail,bantime,action
 2602:fa59:10:4c9::1,2026-07-10T11:25:18Z,nginx-configprobe,604800,ipv6,ban
 54.234.155.177,2026-07-10T11:34:36Z,nginx-4xx-catchall,,ipv4,unban
 64.31.55.22,2026-07-10T11:36:55Z,nginx-4xx-catchall,,ipv4,unban
+2605:7980:0:615f::1,2026-07-10T11:43:33Z,nginx-configprobe,604800,ipv6,ban

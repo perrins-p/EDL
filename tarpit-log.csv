@@ -8625,3 +8625,4 @@ ip,timestamp,jail,bantime,action
 93.123.109.152,2026-07-10T13:35:57Z,nginx-configprobe,,ipv4,unban
 209.112.91.75,2026-07-10T13:36:21Z,nginx-configprobe,,ipv4,unban
 82.102.18.118,2026-07-10T13:37:34Z,nginx-4xx-catchall,,ipv4,unban
+34.122.8.89,2026-07-10T13:43:45Z,nginx-4xx-catchall,,ipv4,unban

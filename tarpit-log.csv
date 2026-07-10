@@ -8613,3 +8613,4 @@ ip,timestamp,jail,bantime,action
 2605:7980:0:615f::1,2026-07-10T11:43:33Z,nginx-configprobe,604800,ipv6,ban
 8.229.111.207,2026-07-10T11:53:08Z,nginx-4xx-catchall,,ipv4,unban
 35.224.61.205,2026-07-10T12:05:07Z,nginx-4xx-catchall,,ipv4,unban
+2a02:4780:d:2e90::1,2026-07-10T12:07:00Z,nginx-configprobe,604800,ipv6,ban

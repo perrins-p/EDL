@@ -8690,3 +8690,4 @@ ip,timestamp,jail,bantime,action
 158.178.243.5,2026-07-11T04:56:00Z,nginx-4xx-catchall,,ipv4,unban
 156.239.14.145,2026-07-11T05:19:35Z,nginx-configprobe,604800,ipv4,ban
 82.39.212.238,2026-07-11T05:43:42Z,nginx-configprobe,604800,ipv4,ban
+82.102.18.188,2026-07-11T05:44:50Z,nginx-4xx-catchall,86400,ipv4,ban

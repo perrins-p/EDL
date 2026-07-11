@@ -8679,3 +8679,4 @@ ip,timestamp,jail,bantime,action
 2a06:98c0:3600::103,2026-07-11T02:31:33Z,nginx-4xx-catchall,86400,ipv6,ban
 2a09:bac1:7680:780::2df:e7,2026-07-11T02:47:03Z,nginx-4xx-catchall,86400,ipv6,ban
 2a09:bac5:9444:3af::5e:69,2026-07-11T03:09:06Z,nginx-configprobe,604800,ipv6,ban
+2a09:bac5:9444:3af::5e:69,2026-07-11T03:09:07Z,nginx-4xx-catchall,86400,ipv6,ban

@@ -8807,3 +8807,4 @@ ip,timestamp,jail,bantime,action
 3.110.107.129,2026-07-12T10:54:59Z,nginx-configprobe,604800,ipv4,ban
 35.180.208.209,2026-07-12T11:02:13Z,nginx-configprobe,604800,ipv4,ban
 83.242.100.87,2026-07-12T11:30:37Z,nginx-configprobe,604800,ipv4,ban
+2a06:98c0:3600::103,2026-07-12T11:30:44Z,nginx-configprobe,604800,ipv6,ban

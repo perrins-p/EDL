@@ -8853,3 +8853,4 @@ ip,timestamp,jail,bantime,action
 45.45.237.7,2026-07-12T21:58:53Z,nginx-configprobe,604800,ipv4,ban
 45.45.237.7,2026-07-12T21:58:54Z,nginx-4xx-catchall,86400,ipv4,ban
 206.123.156.179,2026-07-12T22:09:23Z,nginx-wordpress,604800,ipv4,ban
+64.89.161.82,2026-07-12T22:24:13Z,nginx-configprobe,604800,ipv4,ban

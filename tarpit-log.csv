@@ -8769,3 +8769,4 @@ ip,timestamp,jail,bantime,action
 2a09:bac1:7680:780::2df:e7,2026-07-12T02:47:02Z,nginx-4xx-catchall,,ipv6,unban
 91.92.42.182,2026-07-12T02:51:13Z,nginx-configprobe,604800,ipv4,ban
 185.242.3.110,2026-07-12T02:51:41Z,nginx-configprobe,,ipv4,unban
+52.184.100.96,2026-07-12T02:57:46Z,nginx-wordpress,,ipv4,unban

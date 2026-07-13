@@ -8915,3 +8915,4 @@ ip,timestamp,jail,bantime,action
 20.151.205.204,2026-07-13T11:38:41Z,nginx-4xx-catchall,86400,ipv4,ban
 20.63.63.128,2026-07-13T12:09:16Z,nginx-4xx-catchall,86400,ipv4,ban
 203.159.90.217,2026-07-13T12:25:57Z,nginx-4xx-catchall,86400,ipv4,ban
+20.89.248.158,2026-07-13T12:31:02Z,nginx-wordpress,,ipv4,unban

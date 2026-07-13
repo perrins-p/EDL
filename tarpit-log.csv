@@ -8911,3 +8911,4 @@ ip,timestamp,jail,bantime,action
 2a01:239:217:4800::1,2026-07-13T10:45:43Z,nginx-configprobe,,ipv6,unban
 85.204.70.96,2026-07-13T11:21:18Z,nginx-4xx-catchall,86400,ipv4,ban
 212.237.121.146,2026-07-13T11:31:05Z,nginx-configprobe,,ipv4,unban
+82.102.18.188,2026-07-13T11:34:38Z,nginx-4xx-catchall,,ipv4,unban

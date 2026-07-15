@@ -9104,3 +9104,4 @@ ip,timestamp,jail,bantime,action
 172.236.251.37,2026-07-15T07:36:02Z,nginx-configprobe,604800,ipv4,ban
 2a01:7e03::2000:1ff:fe0f:3c16,2026-07-15T07:36:11Z,nginx-configprobe,604800,ipv6,ban
 2a0a:8c43::2ef,2026-07-15T07:36:43Z,nginx-configprobe,604800,ipv6,ban
+143.244.57.92,2026-07-15T07:45:24Z,nginx-4xx-catchall,86400,ipv4,ban

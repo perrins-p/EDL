@@ -9178,3 +9178,4 @@ ip,timestamp,jail,bantime,action
 195.178.110.199,2026-07-15T18:19:40Z,nginx-4xx-catchall,,ipv4,unban
 20.63.63.128,2026-07-15T18:30:56Z,nginx-4xx-catchall,86400,ipv4,ban
 20.169.53.113,2026-07-15T18:35:32Z,nginx-wordpress,604800,ipv4,ban
+141.98.11.42,2026-07-15T18:36:27Z,nginx-4xx-catchall,86400,ipv4,ban

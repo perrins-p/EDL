@@ -9110,3 +9110,4 @@ ip,timestamp,jail,bantime,action
 81.171.72.93,2026-07-15T08:19:23Z,nginx-4xx-catchall,,ipv4,unban
 85.204.70.112,2026-07-15T08:57:52Z,nginx-4xx-catchall,86400,ipv4,ban
 147.182.200.94,2026-07-15T09:00:12Z,nginx-configprobe,,ipv4,unban
+64.225.75.246,2026-07-15T09:00:13Z,nginx-configprobe,,ipv4,unban

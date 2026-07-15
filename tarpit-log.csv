@@ -9108,3 +9108,4 @@ ip,timestamp,jail,bantime,action
 2a0b:8800:580::6c,2026-07-15T07:49:21Z,nginx-configprobe,604800,ipv6,ban
 34.7.77.158,2026-07-15T07:52:55Z,nginx-4xx-catchall,,ipv4,unban
 81.171.72.93,2026-07-15T08:19:23Z,nginx-4xx-catchall,,ipv4,unban
+85.204.70.112,2026-07-15T08:57:52Z,nginx-4xx-catchall,86400,ipv4,ban

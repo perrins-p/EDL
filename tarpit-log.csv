@@ -9248,3 +9248,4 @@ ip,timestamp,jail,bantime,action
 2a04:c300:1000::383,2026-07-16T07:15:07Z,nginx-configprobe,,ipv6,unban
 191.237.250.106,2026-07-16T07:21:19Z,nginx-4xx-catchall,86400,ipv4,ban
 2001:41d0:304:300::bb31,2026-07-16T07:31:35Z,nginx-4xx-catchall,86400,ipv6,ban
+143.244.57.92,2026-07-16T07:45:24Z,nginx-4xx-catchall,,ipv4,unban

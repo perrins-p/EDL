@@ -9260,3 +9260,4 @@ ip,timestamp,jail,bantime,action
 136.66.46.29,2026-07-16T09:45:51Z,nginx-4xx-catchall,,ipv4,unban
 115.84.115.92,2026-07-16T10:00:03Z,nginx-4xx-catchall,,ipv4,unban
 45.61.150.67,2026-07-16T10:00:12Z,nginx-configprobe,604800,ipv4,ban
+216.81.248.125,2026-07-16T10:18:29Z,nginx-configprobe,,ipv4,unban

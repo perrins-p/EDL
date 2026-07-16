@@ -9250,3 +9250,4 @@ ip,timestamp,jail,bantime,action
 2001:41d0:304:300::bb31,2026-07-16T07:31:35Z,nginx-4xx-catchall,86400,ipv6,ban
 143.244.57.92,2026-07-16T07:45:24Z,nginx-4xx-catchall,,ipv4,unban
 134.195.101.195,2026-07-16T07:56:02Z,nginx-configprobe,,ipv4,unban
+46.23.108.246,2026-07-16T08:03:57Z,nginx-configprobe,,ipv4,unban

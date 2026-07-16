@@ -9264,3 +9264,4 @@ ip,timestamp,jail,bantime,action
 136.67.107.38,2026-07-16T10:19:38Z,nginx-4xx-catchall,,ipv4,unban
 2605:52c0:2:34f4:1813:c4ff:fe20:23b0,2026-07-16T10:29:26Z,nginx-configprobe,604800,ipv6,ban
 2a0b:8bc0:2:807c::1,2026-07-16T10:32:49Z,nginx-configprobe,,ipv6,unban
+2406:da14:19cd:e400:2afd:ed09:52c2:30f4,2026-07-16T10:37:34Z,nginx-configprobe,604800,ipv6,ban

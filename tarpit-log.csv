@@ -9224,3 +9224,4 @@ ip,timestamp,jail,bantime,action
 2a04:4e40:e000:0:f31:c388:6d78:25fa,2026-07-16T02:42:01Z,nginx-configprobe,604800,ipv6,ban
 52.91.175.145,2026-07-16T02:45:16Z,nginx-configprobe,604800,ipv4,ban
 2602:fa59:10:10b5::1,2026-07-16T03:13:23Z,nginx-configprobe,604800,ipv6,ban
+185.177.72.10,2026-07-16T03:21:47Z,nginx-4xx-catchall,,ipv4,unban

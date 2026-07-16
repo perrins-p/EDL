@@ -9299,3 +9299,4 @@ ip,timestamp,jail,bantime,action
 31.58.51.184,2026-07-16T16:20:52Z,nginx-configprobe,604800,ipv4,ban
 44.248.236.172,2026-07-16T16:21:36Z,nginx-configprobe,604800,ipv4,ban
 50.17.15.144,2026-07-16T16:22:02Z,nginx-configprobe,604800,ipv4,ban
+43.161.250.78,2026-07-16T16:22:45Z,nginx-configprobe,604800,ipv4,ban

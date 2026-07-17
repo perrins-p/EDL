@@ -9388,3 +9388,4 @@ ip,timestamp,jail,bantime,action
 93.123.109.152,2026-07-17T06:40:34Z,nginx-4xx-catchall,86400,ipv4,ban
 103.253.145.175,2026-07-17T06:46:33Z,nginx-4xx-catchall,86400,ipv4,ban
 45.154.98.52,2026-07-17T06:50:06Z,nginx-4xx-catchall,86400,ipv4,ban
+2a04:4e40:1700:0:35e:15a9:e76c:455e,2026-07-17T07:04:57Z,nginx-configprobe,604800,ipv6,ban

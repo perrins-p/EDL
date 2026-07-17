@@ -9360,3 +9360,4 @@ ip,timestamp,jail,bantime,action
 2a0d:2787:1e:6ee::a,2026-07-16T23:30:30Z,nginx-configprobe,604800,ipv6,ban
 143.244.57.90,2026-07-17T00:00:01Z,nginx-4xx-catchall,,ipv4,unban
 143.244.57.121,2026-07-17T00:08:07Z,nginx-4xx-catchall,,ipv4,unban
+20.226.66.230,2026-07-17T00:14:45Z,nginx-4xx-catchall,86400,ipv4,ban

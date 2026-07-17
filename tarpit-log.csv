@@ -9459,3 +9459,4 @@ ip,timestamp,jail,bantime,action
 84.17.43.206,2026-07-17T21:15:22Z,nginx-4xx-catchall,,ipv4,unban
 191.237.250.106,2026-07-17T21:20:41Z,nginx-4xx-catchall,86400,ipv4,ban
 194.169.168.18,2026-07-17T21:29:00Z,nginx-4xx-catchall,,ipv4,unban
+2400:6180:0:d2:0:2:db7b:0,2026-07-17T21:39:58Z,nginx-configprobe,,ipv6,unban

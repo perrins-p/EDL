@@ -9592,3 +9592,4 @@ ip,timestamp,jail,bantime,action
 2a09:bac1:1e60:8::1d8:238,2026-07-18T19:21:03Z,nginx-4xx-catchall,86400,ipv6,ban
 2a09:bac1:1e60:8::1d8:238,2026-07-18T19:21:43Z,nginx-configprobe,604800,ipv6,ban
 34.138.251.219,2026-07-18T19:38:04Z,nginx-4xx-catchall,86400,ipv4,ban
+34.138.251.219,2026-07-18T19:38:44Z,nginx-configprobe,604800,ipv4,ban

@@ -9581,3 +9581,4 @@ ip,timestamp,jail,bantime,action
 103.168.66.101,2026-07-18T17:36:24Z,nginx-4xx-catchall,,ipv4,unban
 34.186.43.65,2026-07-18T17:51:24Z,nginx-configprobe,604800,ipv4,ban
 34.186.43.65,2026-07-18T17:52:04Z,nginx-4xx-catchall,86400,ipv4,ban
+34.186.43.65,2026-07-18T17:52:45Z,nginx-traversal,2592000,ipv4,ban

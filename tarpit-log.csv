@@ -9511,3 +9511,4 @@ ip,timestamp,jail,bantime,action
 80.190.72.131,2026-07-18T06:08:33Z,nginx-4xx-catchall,86400,ipv4,ban
 81.171.74.60,2026-07-18T06:13:44Z,nginx-configprobe,604800,ipv4,ban
 81.171.74.60,2026-07-18T06:13:45Z,nginx-4xx-catchall,86400,ipv4,ban
+3.107.206.44,2026-07-18T06:15:25Z,nginx-configprobe,604800,ipv4,ban

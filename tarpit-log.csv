@@ -9727,3 +9727,4 @@ ip,timestamp,jail,bantime,action
 172.202.30.177,2026-07-19T18:07:54Z,nginx-4xx-catchall,86400,ipv4,ban
 20.9.15.100,2026-07-19T18:08:22Z,nginx-4xx-catchall,86400,ipv4,ban
 20.9.15.100,2026-07-19T18:08:42Z,nginx-wordpress,604800,ipv4,ban
+172.202.30.177,2026-07-19T18:13:33Z,nginx-configprobe,604800,ipv4,ban

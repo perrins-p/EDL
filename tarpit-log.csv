@@ -9758,3 +9758,4 @@ ip,timestamp,jail,bantime,action
 209.112.91.75,2026-07-19T21:55:29Z,nginx-configprobe,604800,ipv4,ban
 206.123.156.179,2026-07-19T22:09:23Z,nginx-wordpress,,ipv4,unban
 144.172.116.30,2026-07-19T22:24:43Z,nginx-configprobe,,ipv4,unban
+216.144.249.201,2026-07-19T22:29:46Z,nginx-configprobe,604800,ipv4,ban

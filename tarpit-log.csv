@@ -9765,3 +9765,4 @@ ip,timestamp,jail,bantime,action
 2a09:bac5:3a22:1028::19c:2a3,2026-07-19T22:50:59Z,nginx-configprobe,604800,ipv6,ban
 2a09:bac5:3a22:1d0f::2e5:4c,2026-07-19T22:51:20Z,nginx-configprobe,604800,ipv6,ban
 2a09:bac1:34a0:18::4dc:39,2026-07-19T22:51:41Z,nginx-configprobe,604800,ipv6,ban
+20.119.205.224,2026-07-19T22:52:55Z,nginx-4xx-catchall,86400,ipv4,ban

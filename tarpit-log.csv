@@ -9680,3 +9680,4 @@ ip,timestamp,jail,bantime,action
 54.252.11.20,2026-07-19T10:51:32Z,nginx-configprobe,604800,ipv4,ban
 2a06:98c0:3600::103,2026-07-19T10:55:01Z,nginx-wordpress,604800,ipv6,ban
 35.189.35.210,2026-07-19T10:58:10Z,nginx-configprobe,604800,ipv4,ban
+35.189.35.210,2026-07-19T10:58:30Z,nginx-4xx-catchall,86400,ipv4,ban

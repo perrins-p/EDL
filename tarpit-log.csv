@@ -9629,3 +9629,4 @@ ip,timestamp,jail,bantime,action
 64.31.55.22,2026-07-19T02:37:09Z,nginx-4xx-catchall,,ipv4,unban
 178.239.198.46,2026-07-19T02:44:07Z,nginx-wordpress,604800,ipv4,ban
 20.226.26.5,2026-07-19T02:44:38Z,nginx-4xx-catchall,,ipv4,unban
+20.206.89.130,2026-07-19T02:45:52Z,nginx-4xx-catchall,,ipv4,unban

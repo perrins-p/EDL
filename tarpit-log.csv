@@ -9694,3 +9694,4 @@ ip,timestamp,jail,bantime,action
 2602:fba3:302:700::a,2026-07-19T12:37:06Z,nginx-configprobe,,ipv6,unban
 146.70.194.238,2026-07-19T12:49:33Z,nginx-4xx-catchall,,ipv4,unban
 124.16.129.4,2026-07-19T13:01:18Z,nginx-configprobe,604800,ipv4,ban
+212.237.120.125,2026-07-19T13:08:58Z,nginx-configprobe,604800,ipv4,ban

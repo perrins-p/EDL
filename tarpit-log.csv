@@ -9755,3 +9755,4 @@ ip,timestamp,jail,bantime,action
 47.250.40.154,2026-07-19T21:22:46Z,nginx-configprobe,,ipv4,unban
 157.245.105.107,2026-07-19T21:24:18Z,nginx-configprobe,,ipv4,unban
 68.183.180.73,2026-07-19T21:24:39Z,nginx-configprobe,,ipv4,unban
+209.112.91.75,2026-07-19T21:55:29Z,nginx-configprobe,604800,ipv4,ban

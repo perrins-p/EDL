@@ -9641,3 +9641,4 @@ ip,timestamp,jail,bantime,action
 2a04:4e40:1700:0:f27:437d:9904:553d,2026-07-19T05:25:40Z,nginx-configprobe,604800,ipv6,ban
 103.215.74.26,2026-07-19T05:27:00Z,nginx-configprobe,,ipv4,unban
 8.234.217.57,2026-07-19T05:31:00Z,nginx-4xx-catchall,,ipv4,unban
+2605:a144:2343:8096::1,2026-07-19T05:48:49Z,nginx-4xx-catchall,,ipv6,unban

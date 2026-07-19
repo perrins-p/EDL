@@ -9611,3 +9611,4 @@ ip,timestamp,jail,bantime,action
 2401:c080:1000:1090:5400:6ff:fe6c:a1f2,2026-07-19T00:11:09Z,nginx-4xx-catchall,86400,ipv6,ban
 2.57.122.13,2026-07-19T00:12:58Z,nginx-4xx-catchall,86400,ipv4,ban
 20.151.10.178,2026-07-19T00:20:05Z,nginx-4xx-catchall,,ipv4,unban
+4.194.217.15,2026-07-19T00:25:34Z,nginx-4xx-catchall,,ipv4,unban

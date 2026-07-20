@@ -9806,3 +9806,4 @@ ip,timestamp,jail,bantime,action
 2a09:bac1:76c0:1a98::3ff:50,2026-07-20T06:38:56Z,nginx-configprobe,,ipv6,unban
 34.90.85.204,2026-07-20T06:39:55Z,nginx-4xx-catchall,,ipv4,unban
 34.13.145.151,2026-07-20T07:27:24Z,nginx-4xx-catchall,,ipv4,unban
+146.70.194.230,2026-07-20T07:34:19Z,nginx-4xx-catchall,,ipv4,unban

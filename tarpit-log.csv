@@ -9968,3 +9968,4 @@ ip,timestamp,jail,bantime,action
 2404:c0:b203:48c4:9cbf:dcd0:1b37:5dfc,2026-07-21T14:23:15Z,nginx-wordpress,604800,ipv6,ban
 103.168.66.101,2026-07-21T14:37:05Z,nginx-4xx-catchall,,ipv4,unban
 185.213.82.61,2026-07-21T14:42:46Z,nginx-configprobe,604800,ipv4,ban
+91.92.47.101,2026-07-21T14:45:11Z,nginx-configprobe,604800,ipv4,ban

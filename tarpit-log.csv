@@ -9978,3 +9978,4 @@ ip,timestamp,jail,bantime,action
 20.226.66.230,2026-07-21T14:57:42Z,nginx-4xx-catchall,,ipv4,unban
 138.68.82.23,2026-07-21T14:58:06Z,nginx-configprobe,,ipv4,unban
 209.38.248.17,2026-07-21T14:58:26Z,nginx-configprobe,,ipv4,unban
+165.22.34.189,2026-07-21T14:58:47Z,nginx-configprobe,,ipv4,unban

@@ -9890,3 +9890,4 @@ ip,timestamp,jail,bantime,action
 203.159.90.217,2026-07-21T00:35:37Z,nginx-4xx-catchall,86400,ipv4,ban
 193.32.248.148,2026-07-21T00:40:01Z,nginx-configprobe,,ipv4,unban
 85.204.70.116,2026-07-21T00:59:30Z,nginx-4xx-catchall,86400,ipv4,ban
+104.36.83.158,2026-07-21T01:37:01Z,nginx-configprobe,,ipv4,unban

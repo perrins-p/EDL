@@ -10070,3 +10070,4 @@ ip,timestamp,jail,bantime,action
 2a01:7e03::2000:1ff:fe0f:3c16,2026-07-22T07:36:10Z,nginx-configprobe,,ipv6,unban
 2a0a:8c43::2ef,2026-07-22T07:36:43Z,nginx-configprobe,,ipv6,unban
 172.236.251.37,2026-07-22T07:38:33Z,nginx-configprobe,,ipv4,unban
+2a0b:8800:580::6c,2026-07-22T07:51:27Z,nginx-configprobe,,ipv6,unban

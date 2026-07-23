@@ -10195,3 +10195,4 @@ ip,timestamp,jail,bantime,action
 93.123.109.166,2026-07-23T02:26:17Z,nginx-configprobe,604800,ipv4,ban
 93.123.109.166,2026-07-23T02:26:37Z,nginx-4xx-catchall,86400,ipv4,ban
 93.123.109.166,2026-07-23T02:26:58Z,nginx-traversal,2592000,ipv4,ban
+195.178.110.241,2026-07-23T02:35:46Z,nginx-configprobe,604800,ipv4,ban

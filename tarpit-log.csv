@@ -10400,3 +10400,4 @@ ip,timestamp,jail,bantime,action
 3.135.212.223,2026-07-24T09:51:56Z,nginx-configprobe,604800,ipv4,ban
 20.226.60.151,2026-07-24T10:00:14Z,nginx-4xx-catchall,,ipv4,unban
 146.70.194.228,2026-07-24T10:09:39Z,nginx-4xx-catchall,,ipv4,unban
+3.109.202.12,2026-07-24T10:29:58Z,nginx-configprobe,604800,ipv4,ban

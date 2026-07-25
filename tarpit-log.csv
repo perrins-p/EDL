@@ -10539,3 +10539,4 @@ ip,timestamp,jail,bantime,action
 2a02:c207:2332:8672::1,2026-07-25T06:02:57Z,nginx-traversal,2592000,ipv6,ban
 194.147.58.39,2026-07-25T06:03:17Z,nginx-traversal,2592000,ipv4,ban
 52.173.161.248,2026-07-25T06:17:30Z,nginx-4xx-catchall,86400,ipv4,ban
+172.213.225.181,2026-07-25T06:32:39Z,nginx-wordpress,604800,ipv4,ban

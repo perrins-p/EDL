@@ -10545,3 +10545,4 @@ ip,timestamp,jail,bantime,action
 3.107.206.44,2026-07-25T06:47:47Z,nginx-configprobe,,ipv4,unban
 88.191.164.16,2026-07-25T06:53:52Z,nginx-configprobe,,ipv4,unban
 2406:da14:1cf8:d800:471c:a879:4603:554f,2026-07-25T07:04:02Z,nginx-4xx-catchall,,ipv6,unban
+54.250.14.43,2026-07-25T07:04:22Z,nginx-4xx-catchall,,ipv4,unban

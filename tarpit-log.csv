@@ -10700,3 +10700,4 @@ ip,timestamp,jail,bantime,action
 172.213.17.107,2026-07-26T01:39:20Z,nginx-4xx-catchall,86400,ipv4,ban
 20.29.206.226,2026-07-26T01:42:45Z,nginx-wordpress,604800,ipv4,ban
 123.245.85.103,2026-07-26T01:49:49Z,nginx-4xx-catchall,86400,ipv4,ban
+107.170.9.103,2026-07-26T02:01:57Z,nginx-configprobe,604800,ipv4,ban

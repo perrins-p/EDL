@@ -10718,3 +10718,4 @@ ip,timestamp,jail,bantime,action
 34.220.230.179,2026-07-26T03:37:11Z,nginx-configprobe,604800,ipv4,ban
 34.220.230.179,2026-07-26T03:37:32Z,nginx-4xx-catchall,86400,ipv4,ban
 34.220.230.179,2026-07-26T03:37:53Z,nginx-botsearch,86400,ipv4,ban
+74.248.33.172,2026-07-26T04:10:58Z,nginx-wordpress,604800,ipv4,ban

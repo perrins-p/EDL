@@ -11074,3 +11074,4 @@ ip,timestamp,jail,bantime,action
 94.154.43.179,2026-07-27T23:07:35Z,nginx-configprobe,,ipv4,unban
 140.245.69.89,2026-07-27T23:22:50Z,nginx-configprobe,,ipv4,unban
 115.42.75.122,2026-07-27T23:35:10Z,nginx-wordpress,,ipv4,unban
+154.58.229.12,2026-07-27T23:41:09Z,nginx-configprobe,604800,ipv4,ban

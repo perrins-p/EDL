@@ -10905,3 +10905,4 @@ ip,timestamp,jail,bantime,action
 2800:560:4b8:c600:7d49:84fe:4675:f03f,2026-07-27T02:15:41Z,nginx-wordpress,604800,ipv6,ban
 209.99.189.160,2026-07-27T02:21:30Z,nginx-configprobe,604800,ipv4,ban
 209.99.189.160,2026-07-27T02:21:50Z,nginx-4xx-catchall,86400,ipv4,ban
+52.32.48.129,2026-07-27T02:27:35Z,nginx-4xx-catchall,86400,ipv4,ban

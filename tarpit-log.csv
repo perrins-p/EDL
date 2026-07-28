@@ -11088,3 +11088,4 @@ ip,timestamp,jail,bantime,action
 2a09:bac5:9440:3af::5e:57,2026-07-28T00:57:44Z,nginx-configprobe,604800,ipv6,ban
 20.91.208.34,2026-07-28T01:08:57Z,nginx-4xx-catchall,,ipv4,unban
 20.91.140.156,2026-07-28T01:17:49Z,nginx-4xx-catchall,86400,ipv4,ban
+82.102.18.220,2026-07-28T01:26:23Z,nginx-4xx-catchall,,ipv4,unban

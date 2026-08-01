@@ -11849,3 +11849,4 @@ ip,timestamp,jail,bantime,action
 2001:448a:a071:df7:4956:ddf1:657f:e097,2026-07-31T23:38:51Z,nginx-configprobe,,ipv6,unban
 64.225.19.52,2026-07-31T23:43:59Z,nginx-configprobe,,ipv4,unban
 154.58.229.19,2026-07-31T23:57:45Z,nginx-4xx-catchall,86400,ipv4,ban
+93.123.109.164,2026-08-01T00:04:20Z,nginx-4xx-catchall,86400,ipv4,ban

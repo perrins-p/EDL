@@ -12404,3 +12404,4 @@ ip,timestamp,jail,bantime,action
 2401:4900:1f25:21c:7941:ee6c:f83:4bc,2026-08-03T08:15:16Z,nginx-4xx-catchall,86400,ipv6,ban
 45.148.10.60,2026-08-03T08:19:42Z,nginx-4xx-catchall,86400,ipv4,ban
 103.153.183.69,2026-08-03T08:37:01Z,nginx-4xx-catchall,,ipv4,unban
+209.97.180.8,2026-08-03T08:39:10Z,nginx-4xx-catchall,86400,ipv4,ban

@@ -12370,3 +12370,4 @@ ip,timestamp,jail,bantime,action
 193.123.160.108,2026-08-03T03:55:55Z,nginx-wordpress,604800,ipv4,ban
 143.244.57.120,2026-08-03T03:58:25Z,nginx-4xx-catchall,,ipv4,unban
 4.184.60.71,2026-08-03T04:06:50Z,nginx-4xx-catchall,86400,ipv4,ban
+34.6.20.219,2026-08-03T04:11:34Z,nginx-4xx-catchall,,ipv4,unban

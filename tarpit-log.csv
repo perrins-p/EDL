@@ -12809,3 +12809,4 @@ ip,timestamp,jail,bantime,action
 139.170.73.46,2026-08-05T00:46:30Z,nginx-4xx-catchall,,ipv4,unban
 2a04:c300:1000::333,2026-08-05T00:50:26Z,nginx-4xx-catchall,86400,ipv6,ban
 20.9.4.9,2026-08-05T00:51:29Z,nginx-4xx-catchall,,ipv4,unban
+2a09:bac1:7680:460::5e:54,2026-08-05T01:00:07Z,nginx-configprobe,,ipv6,unban

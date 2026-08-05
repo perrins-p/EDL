@@ -12980,3 +12980,4 @@ ip,timestamp,jail,bantime,action
 51.104.61.179,2026-08-05T19:24:30Z,nginx-wordpress,604800,ipv4,ban
 91.148.244.131,2026-08-05T19:32:31Z,nginx-configprobe,,ipv4,unban
 85.204.70.90,2026-08-05T19:48:25Z,nginx-4xx-catchall,86400,ipv4,ban
+172.213.225.181,2026-08-05T19:55:49Z,nginx-configprobe,,ipv4,unban

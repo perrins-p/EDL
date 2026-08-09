@@ -13579,3 +13579,4 @@ ip,timestamp,jail,bantime,action
 34.17.70.72,2026-08-09T02:23:23Z,nginx-traversal,2592000,ipv4,ban
 151.242.127.198,2026-08-09T02:23:44Z,nginx-configprobe,,ipv4,unban
 34.124.139.132,2026-08-09T02:26:48Z,nginx-traversal,2592000,ipv4,ban
+34.124.139.132,2026-08-09T02:27:09Z,nginx-4xx-catchall,86400,ipv4,ban

@@ -13940,3 +13940,4 @@ ip,timestamp,jail,bantime,action
 217.142.225.235,2026-08-10T15:58:03Z,nginx-wordpress,604800,ipv4,ban
 146.70.194.236,2026-08-10T16:21:44Z,nginx-4xx-catchall,86400,ipv4,ban
 34.124.212.165,2026-08-10T16:34:43Z,nginx-4xx-catchall,,ipv4,unban
+2a01:cb08:fe2:370a:d054:ff:fe9f:f489,2026-08-10T16:45:30Z,nginx-configprobe,,ipv6,unban

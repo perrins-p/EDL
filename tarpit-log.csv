@@ -14775,3 +14775,4 @@ ip,timestamp,jail,bantime,action
 8.228.106.194,2026-08-14T22:54:10Z,nginx-configprobe,604800,ipv4,ban
 103.215.74.185,2026-08-14T23:02:26Z,nginx-4xx-catchall,86400,ipv4,ban
 103.215.74.185,2026-08-14T23:02:46Z,nginx-wordpress,604800,ipv4,ban
+20.104.82.183,2026-08-14T23:08:48Z,nginx-4xx-catchall,,ipv4,unban

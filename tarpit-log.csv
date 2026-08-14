@@ -14644,3 +14644,4 @@ ip,timestamp,jail,bantime,action
 164.90.228.79,2026-08-14T10:38:52Z,nginx-4xx-catchall,,ipv4,unban
 91.92.242.121,2026-08-14T10:42:26Z,nginx-configprobe,604800,ipv4,ban
 146.70.194.244,2026-08-14T10:45:39Z,nginx-4xx-catchall,,ipv4,unban
+146.70.194.252,2026-08-14T10:51:09Z,nginx-4xx-catchall,86400,ipv4,ban

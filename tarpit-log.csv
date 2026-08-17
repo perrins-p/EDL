@@ -15319,3 +15319,4 @@ ip,timestamp,jail,bantime,action
 216.126.227.85,2026-08-17T09:58:17Z,nginx-botsearch,86400,ipv4,ban
 216.126.227.85,2026-08-17T09:58:37Z,nginx-configprobe,604800,ipv4,ban
 216.126.227.85,2026-08-17T09:58:58Z,nginx-4xx-catchall,86400,ipv4,ban
+104.28.240.187,2026-08-17T09:59:57Z,nginx-4xx-catchall,,ipv4,unban

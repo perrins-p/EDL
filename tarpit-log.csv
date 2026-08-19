@@ -15734,3 +15734,4 @@ ip,timestamp,jail,bantime,action
 34.138.108.56,2026-08-19T11:53:43Z,nginx-traversal,2592000,ipv4,ban
 68.155.154.146,2026-08-19T12:08:54Z,nginx-4xx-catchall,86400,ipv4,ban
 68.155.154.146,2026-08-19T12:09:14Z,nginx-wordpress,604800,ipv4,ban
+34.87.18.81,2026-08-19T12:13:22Z,nginx-traversal,2592000,ipv4,ban

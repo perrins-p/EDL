@@ -15888,3 +15888,4 @@ ip,timestamp,jail,bantime,action
 2a06:98c0:3600::103,2026-08-20T07:22:06Z,nginx-4xx-catchall,,ipv6,unban
 20.104.49.167,2026-08-20T07:23:24Z,nginx-4xx-catchall,,ipv4,unban
 146.70.194.236,2026-08-20T07:36:22Z,nginx-4xx-catchall,,ipv4,unban
+45.45.237.97,2026-08-20T07:46:54Z,nginx-configprobe,,ipv4,unban

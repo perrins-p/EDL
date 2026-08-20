@@ -15985,3 +15985,4 @@ ip,timestamp,jail,bantime,action
 2a0b:8bc0:2:3bb6::1,2026-08-20T18:37:57Z,nginx-configprobe,,ipv6,unban
 135.225.78.186,2026-08-20T18:42:41Z,nginx-4xx-catchall,,ipv4,unban
 149.22.83.53,2026-08-20T18:43:46Z,nginx-configprobe,,ipv4,unban
+2a02:6ea0:f002:2::e029,2026-08-20T18:44:06Z,nginx-configprobe,,ipv6,unban

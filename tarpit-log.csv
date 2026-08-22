@@ -16320,3 +16320,4 @@ ip,timestamp,jail,bantime,action
 35.196.244.131,2026-08-22T13:37:13Z,nginx-traversal,2592000,ipv4,ban
 4.232.94.23,2026-08-22T13:40:31Z,nginx-4xx-catchall,,ipv4,unban
 34.53.172.230,2026-08-22T14:12:42Z,nginx-4xx-catchall,,ipv4,unban
+20.38.3.247,2026-08-22T15:05:42Z,nginx-4xx-catchall,,ipv4,unban

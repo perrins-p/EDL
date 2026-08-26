@@ -17054,3 +17054,4 @@ ip,timestamp,jail,bantime,action
 2a02:c207:2332:8672::1,2026-08-26T21:17:15Z,nginx-traversal,,ipv6,unban
 52.139.37.240,2026-08-26T21:39:06Z,nginx-4xx-catchall,,ipv4,unban
 165.154.43.207,2026-08-26T21:50:38Z,nginx-4xx-catchall,,ipv4,unban
+185.177.72.56,2026-08-26T21:55:28Z,nginx-4xx-catchall,,ipv4,unban

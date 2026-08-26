@@ -17040,3 +17040,4 @@ ip,timestamp,jail,bantime,action
 206.209.210.11,2026-08-26T19:49:53Z,nginx-4xx-catchall,,ipv4,unban
 74.248.96.44,2026-08-26T19:54:36Z,nginx-4xx-catchall,,ipv4,unban
 34.177.107.173,2026-08-26T20:05:51Z,nginx-configprobe,,ipv4,unban
+45.148.10.247,2026-08-26T20:08:43Z,nginx-4xx-catchall,,ipv4,unban

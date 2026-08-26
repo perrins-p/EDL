@@ -17020,3 +17020,4 @@ ip,timestamp,jail,bantime,action
 194.5.48.223,2026-08-26T17:59:32Z,nginx-wordpress,604800,ipv4,ban
 194.5.48.217,2026-08-26T17:59:52Z,nginx-wordpress,604800,ipv4,ban
 194.5.48.219,2026-08-26T18:00:13Z,nginx-wordpress,604800,ipv4,ban
+194.5.48.212,2026-08-26T18:00:33Z,nginx-botsearch,86400,ipv4,ban

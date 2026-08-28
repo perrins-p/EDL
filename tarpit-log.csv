@@ -17378,3 +17378,4 @@ ip,timestamp,jail,bantime,action
 8.234.164.204,2026-08-28T13:25:35Z,nginx-configprobe,604800,ipv4,ban
 8.234.164.204,2026-08-28T13:25:56Z,nginx-4xx-catchall,86400,ipv4,ban
 154.162.39.143,2026-08-28T13:28:17Z,nginx-wordpress,604800,ipv4,ban
+2a09:bac5:4e22:2719::3e5:35,2026-08-28T13:32:57Z,nginx-4xx-catchall,86400,ipv6,ban

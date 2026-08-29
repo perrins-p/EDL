@@ -17560,3 +17560,4 @@ ip,timestamp,jail,bantime,action
 23.111.114.116,2026-08-29T08:17:46Z,nginx-sqli,2592000,ipv4,ban
 20.240.128.207,2026-08-29T08:18:54Z,nginx-4xx-catchall,86400,ipv4,ban
 185.177.72.9,2026-08-29T08:38:06Z,nginx-4xx-catchall,,ipv4,unban
+185.177.72.70,2026-08-29T08:38:33Z,nginx-4xx-catchall,86400,ipv4,ban

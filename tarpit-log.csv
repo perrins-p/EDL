@@ -19707,3 +19707,4 @@ ip,timestamp,jail,bantime,action
 35.247.182.8,2026-09-08T19:25:12Z,nginx-traversal,2592000,ipv4,ban
 35.247.182.8,2026-09-08T19:29:26Z,nginx-configprobe,604800,ipv4,ban
 62.60.130.128,2026-09-08T19:30:33Z,nginx-wordpress,,ipv4,unban
+34.39.189.108,2026-09-08T19:50:05Z,nginx-4xx-catchall,,ipv4,unban

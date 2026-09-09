@@ -19857,3 +19857,4 @@ ip,timestamp,jail,bantime,action
 2602:fa59:2:1697::1,2026-09-09T13:10:34Z,nginx-configprobe,604800,ipv6,ban
 8.234.175.25,2026-09-09T13:15:57Z,nginx-4xx-catchall,86400,ipv4,ban
 8.234.107.77,2026-09-09T13:42:55Z,nginx-configprobe,604800,ipv4,ban
+2602:fa59:2:bdab::1,2026-09-09T14:01:18Z,nginx-configprobe,604800,ipv6,ban

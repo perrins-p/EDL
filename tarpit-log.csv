@@ -20002,3 +20002,4 @@ ip,timestamp,jail,bantime,action
 2a09:bac5:636b:183c::26a:19,2026-09-10T08:59:50Z,nginx-4xx-catchall,,ipv6,unban
 169.58.209.108,2026-09-10T09:14:25Z,nginx-4xx-catchall,,ipv4,unban
 162.4.73.210,2026-09-10T09:15:17Z,nginx-wordpress,604800,ipv4,ban
+35.231.70.16,2026-09-10T09:26:07Z,nginx-configprobe,604800,ipv4,ban

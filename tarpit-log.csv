@@ -20083,3 +20083,4 @@ ip,timestamp,jail,bantime,action
 35.201.227.227,2026-09-10T20:56:28Z,nginx-configprobe,604800,ipv4,ban
 3.84.90.29,2026-09-10T21:01:30Z,nginx-configprobe,,ipv4,unban
 167.71.6.60,2026-09-10T21:04:52Z,nginx-configprobe,604800,ipv4,ban
+34.138.87.224,2026-09-10T21:15:34Z,nginx-traversal,,ipv4,unban

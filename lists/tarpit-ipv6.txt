@@ -2,7 +2,6 @@
 # Managed by fail2ban
 2a0f:ca80:b00b:ce63::5
 2a0f:ca80:b00b:56f7::5
-2a01:230:4:7bc::2
 2804:14c:4c6:42bd:6427:12ab:5f31:9c85
 2a0f:ca80:b00b:717f::5
 2001:e68:544f:5228:39ab:6d3:3904:bfd

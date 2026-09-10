@@ -20007,3 +20007,4 @@ ip,timestamp,jail,bantime,action
 13.196.15.60,2026-09-10T09:37:31Z,nginx-configprobe,,ipv4,unban
 2001:16a4:207:9d6d:8c62:b46:faa6:b259,2026-09-10T09:44:07Z,nginx-wordpress,604800,ipv6,ban
 34.156.50.90,2026-09-10T09:54:28Z,nginx-configprobe,604800,ipv4,ban
+35.221.57.138,2026-09-10T09:55:47Z,nginx-4xx-catchall,,ipv4,unban

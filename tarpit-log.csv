@@ -20260,3 +20260,4 @@ ip,timestamp,jail,bantime,action
 144.172.99.12,2026-09-11T14:08:53Z,nginx-configprobe,,ipv4,unban
 149.202.227.64,2026-09-11T14:11:59Z,nginx-4xx-catchall,,ipv4,unban
 145.241.125.52,2026-09-11T14:17:49Z,nginx-wordpress,,ipv4,unban
+35.203.127.136,2026-09-11T14:33:52Z,nginx-configprobe,604800,ipv4,ban

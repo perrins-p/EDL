@@ -20305,3 +20305,4 @@ ip,timestamp,jail,bantime,action
 34.20.154.95,2026-09-11T16:32:02Z,nginx-traversal,2592000,ipv4,ban
 34.20.154.95,2026-09-11T16:32:03Z,nginx-configprobe,604800,ipv4,ban
 34.20.154.95,2026-09-11T16:32:04Z,nginx-4xx-catchall,86400,ipv4,ban
+34.150.48.222,2026-09-11T16:45:52Z,nginx-configprobe,,ipv4,unban

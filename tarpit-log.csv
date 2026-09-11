@@ -20348,3 +20348,4 @@ ip,timestamp,jail,bantime,action
 2a0f:ca80:b00b:717f::5,2026-09-11T18:53:16Z,nginx-configprobe,,ipv6,unban
 34.158.108.59,2026-09-11T18:54:12Z,nginx-traversal,,ipv4,unban
 34.133.65.222,2026-09-11T18:59:45Z,nginx-configprobe,,ipv4,unban
+143.244.57.84,2026-09-11T19:30:50Z,nginx-4xx-catchall,86400,ipv4,ban

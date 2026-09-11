@@ -20197,3 +20197,4 @@ ip,timestamp,jail,bantime,action
 2604:3d09:a880:60:20c:29ff:feea:7cf4,2026-09-11T07:43:46Z,nginx-wordpress,604800,ipv6,ban
 2604:3d09:a880:60:20c:29ff:feea:7cf4,2026-09-11T07:43:47Z,nginx-botsearch,86400,ipv6,ban
 85.204.70.96,2026-09-11T07:58:23Z,nginx-4xx-catchall,,ipv4,unban
+149.88.101.8,2026-09-11T08:11:18Z,nginx-4xx-catchall,,ipv4,unban

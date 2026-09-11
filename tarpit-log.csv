@@ -20230,3 +20230,4 @@ ip,timestamp,jail,bantime,action
 35.247.242.100,2026-09-11T11:13:47Z,nginx-configprobe,604800,ipv4,ban
 34.145.169.131,2026-09-11T11:17:25Z,nginx-configprobe,604800,ipv4,ban
 54.234.48.131,2026-09-11T11:17:46Z,nginx-4xx-catchall,86400,ipv4,ban
+54.234.48.131,2026-09-11T11:17:47Z,nginx-configprobe,604800,ipv4,ban

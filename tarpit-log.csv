@@ -20410,3 +20410,4 @@ ip,timestamp,jail,bantime,action
 2a02:29b8:dc01:3750:b668:42ff:fe9e:dafc,2026-09-12T04:27:00Z,nginx-configprobe,,ipv6,unban
 82.167.14.7,2026-09-12T04:28:26Z,nginx-4xx-catchall,,ipv4,unban
 34.11.22.191,2026-09-12T04:28:39Z,nginx-traversal,,ipv4,unban
+172.56.170.82,2026-09-12T04:42:56Z,nginx-wordpress,,ipv4,unban

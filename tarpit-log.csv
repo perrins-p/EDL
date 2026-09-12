@@ -20570,3 +20570,4 @@ ip,timestamp,jail,bantime,action
 34.75.240.53,2026-09-12T20:30:48Z,nginx-traversal,,ipv4,unban
 35.185.173.241,2026-09-12T20:31:45Z,nginx-4xx-catchall,,ipv4,unban
 34.39.27.116,2026-09-12T20:33:15Z,nginx-configprobe,604800,ipv4,ban
+34.106.143.88,2026-09-12T20:38:57Z,nginx-configprobe,,ipv4,unban

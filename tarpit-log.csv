@@ -20456,3 +20456,4 @@ ip,timestamp,jail,bantime,action
 34.182.33.42,2026-09-12T09:51:49Z,nginx-traversal,,ipv4,unban
 34.174.135.73,2026-09-12T09:53:32Z,nginx-configprobe,,ipv4,unban
 34.124.186.232,2026-09-12T09:56:48Z,nginx-traversal,,ipv4,unban
+165.22.99.208,2026-09-12T10:00:11Z,nginx-wordpress,,ipv4,unban

@@ -21888,3 +21888,4 @@ ip,timestamp,jail,bantime,action
 2001:19f0:9003:c4a:3c00:edad:252b:56f5,2026-09-18T05:08:44Z,nginx-4xx-catchall,86400,ipv6,ban
 34.52.146.37,2026-09-18T05:26:58Z,nginx-4xx-catchall,86400,ipv4,ban
 45.150.174.97,2026-09-18T05:27:42Z,nginx-4xx-catchall,,ipv4,unban
+154.58.229.44,2026-09-18T05:51:20Z,nginx-4xx-catchall,,ipv4,unban

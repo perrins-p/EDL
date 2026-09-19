@@ -22210,3 +22210,4 @@ ip,timestamp,jail,bantime,action
 2a01:4f8:161:34c1::2,2026-09-19T13:20:34Z,nginx-configprobe,,ipv6,unban
 100.62.97.73,2026-09-19T13:22:44Z,nginx-configprobe,,ipv4,unban
 45.148.10.125,2026-09-19T13:30:46Z,nginx-configprobe,,ipv4,unban
+35.241.239.86,2026-09-19T13:34:30Z,nginx-4xx-catchall,86400,ipv4,ban

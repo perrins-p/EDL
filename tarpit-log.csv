@@ -22650,3 +22650,4 @@ ip,timestamp,jail,bantime,action
 34.50.111.180,2026-09-21T15:46:53Z,nginx-configprobe,604800,ipv4,ban
 34.178.84.237,2026-09-21T15:56:12Z,nginx-configprobe,604800,ipv4,ban
 34.84.113.42,2026-09-21T16:05:40Z,nginx-configprobe,604800,ipv4,ban
+34.142.161.185,2026-09-21T16:07:06Z,nginx-configprobe,,ipv4,unban

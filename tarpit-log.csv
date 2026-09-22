@@ -22780,3 +22780,4 @@ ip,timestamp,jail,bantime,action
 91.92.34.66,2026-09-22T03:12:12Z,nginx-wordpress,604800,ipv4,ban
 91.92.34.66,2026-09-22T03:12:13Z,nginx-4xx-catchall,86400,ipv4,ban
 91.92.34.66,2026-09-22T03:12:14Z,nginx-botsearch,86400,ipv4,ban
+34.97.226.134,2026-09-22T03:14:06Z,nginx-configprobe,,ipv4,unban

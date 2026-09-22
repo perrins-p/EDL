@@ -22928,3 +22928,4 @@ ip,timestamp,jail,bantime,action
 35.194.244.92,2026-09-22T12:50:28Z,nginx-4xx-catchall,86400,ipv4,ban
 35.240.112.143,2026-09-22T12:51:52Z,nginx-configprobe,,ipv4,unban
 35.194.244.92,2026-09-22T12:52:34Z,nginx-configprobe,604800,ipv4,ban
+35.194.244.92,2026-09-22T12:53:02Z,nginx-traversal,2592000,ipv4,ban

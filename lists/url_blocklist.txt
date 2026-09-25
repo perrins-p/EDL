@@ -4,3 +4,4 @@ bad-actor.net
 not-really-the-fcc.gov
 govx.com
 *.govx.com
+www.govx.com
